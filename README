@@ -1,0 +1,3 @@
+A minimal openvpn docker image.
+
+All binaries are extracted from ubuntu 16.04 repository.
